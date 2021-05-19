@@ -1,0 +1,7 @@
+package main
+
+const (
+	Secretseed   string = "039e48126xxxxxx877f150c5a3xxxxxx"
+	Controllerid string = "9691bxxxxxf46e"
+	Beanid       string = "8691bxxxxxxf46e"
+)
