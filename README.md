@@ -29,6 +29,14 @@ $mac$ip shell 对执行主机发送shell命令
 ## Example
 ![example](https://raw.githubusercontent.com/Maka8ka/NGLite/main/example.png)
 
+## 后续开发
+
+介于P2P的特性以及分布的7w多个网络节点，这个网络天生具有大文件传输的优势及网络传输速度的优势。
+
+后续考虑增加文件传输、内网穿透代理等功能。
+
+代码写的比较乱，稍后整理一下，将功能分离后会更新源代码。
+
 ## Detection
 ![detection](https://raw.githubusercontent.com/Maka8ka/NGLite/main/detection.png)
 
