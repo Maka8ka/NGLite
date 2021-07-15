@@ -33,7 +33,7 @@ $mac$ip shell 对执行主机发送shell命令
 
 
 ## Warning!!!
-Limited to network security study and research, all consequences are at your own risk!!!
+该远控程序是方便运维人员使用的运维工具，请大家合理使用，产生一切非法行为及后果由使用者自负。
 
 ## My Sapce
 [Maka8ka's Garden](https://maka8ka.github.io)
