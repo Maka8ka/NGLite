@@ -118,7 +118,7 @@ func AesDecode(str string) string {
 
 }
 
-
+func Sender(srcid string, dst string, acc *nkn.Account, msg interface{}) (string, error) {
 	Listener, err := nkn.NewMultiClient(acc, dst, conf.TransThreads, false, nil)
 	if err != nil {
 		return "error", err
